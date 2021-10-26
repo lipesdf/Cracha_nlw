@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   github: 'lipesdf',
-  youtube: 'jakelinygracielly',
-  facebook: 'maykbrito',
+  youtube: 'channel/UCIIQr2RQOiMtoWMFr1jrLTQ',
+  facebook: 'felipe.sergio.12327',
   instagram: 'mb_lipe',
   twitter: 'm4lipe'
 }
